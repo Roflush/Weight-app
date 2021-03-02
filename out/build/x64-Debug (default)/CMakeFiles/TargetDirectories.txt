@@ -1,0 +1,3 @@
+C:/Users/cars6/source/repos/tstproject/out/build/x64-Debug (default)/CMakeFiles/tstproject.dir
+C:/Users/cars6/source/repos/tstproject/out/build/x64-Debug (default)/CMakeFiles/edit_cache.dir
+C:/Users/cars6/source/repos/tstproject/out/build/x64-Debug (default)/CMakeFiles/rebuild_cache.dir
