@@ -1,4 +1,4 @@
-﻿// weight.cpp : Convers your earth weight to 6 other planet weight(not all at once). 
+﻿// weight.cpp : Converts your earth weight to 6 other planet weight(not all at once). 
 //
 
 
